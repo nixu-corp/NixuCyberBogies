@@ -10,13 +10,13 @@ Preparations
 
 * Shuffle the deck of Cyber Bogie cards
 * Give a Cyber Bogie and Threat Discovery Template card and a pen to everybody
- * nixu-cyber-bogies-scoring-template.pdf
+  * nixu-cyber-bogies-scoring-template.pdf
 * Introduce the system to be threat modeled to everybody
- * Explain the purpose of the system
- * Explain what kind of data is handled in the system
- * Show/draw architecture diagram (data stores, APIs, user interfaces, etc.)
- * Explain use cases of the system for different user roles; what they actually do with the system
- * This part is important. Otherwise, it is difficult to find threats
+  * Explain the purpose of the system
+  * Explain what kind of data is handled in the system
+  * Show/draw architecture diagram (data stores, APIs, user interfaces, etc.)
+  * Explain use cases of the system for different user roles; what they actually do with the system
+  * This part is important. Otherwise, it is difficult to find threats
 * Ideally: Everybody takes some time to familiarize themselves with the Cyber Bogie cards, so using them is faster.
 
 Gameplay
@@ -25,11 +25,11 @@ Gameplay
 2. The first player (Player in Turn) takes a Cyber Bogie card
 3. The Player in Turn reads out loud /explains the card to others
 
- * If you can, show the Cyber Bogie card with a projector to everybody
+  * If you can, show the Cyber Bogie card with a projector to everybody
 
 1. In silence, everybody writes down the threats they come up with
 
- * 3 minutes max or until everybody is ready
+  * 3 minutes max or until everybody is ready
 
 1. The Player in Turn explains all threats (attacks + motivation) they came up with
 2. Other players can comment if they know existing mitigations or that the threat is irrelevant
@@ -46,17 +46,17 @@ Scoring for Player in Turn
 
 The Player in Turn is the one who picked the Cyber Bogie card and first listed the threats they discovered.
 
- * 1 point for each new attack vector
- * 1 point for each motivation
- * -1 point if another player finds a mitigation for your threats
+  * 1 point for each new attack vector
+  * 1 point for each motivation
+  * -1 point if another player finds a mitigation for your threats
 
 Scoring for other players
 
 Other players have their opportunity, one per time, to list new threats that the Player in Turn did not mention
 
- * 2 points for each new attack vector
- * 1 point for each new motivation
- * 1 point for each mitigation to someone else's threats
+  * 2 points for each new attack vector
+  * 1 point for each new motivation
+  * 1 point for each mitigation to someone else's threats
 
 
 After the game

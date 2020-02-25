@@ -34,8 +34,7 @@ System description: IoTCameraSystem-threat-modeling-example.pdf
 
 Cyber Bogie | Potential attack or misuse case
 ----------- | -------------------------------
-Script Kiddie "Jonne" | Jonne searches for vulnerable IoT cameras in Shodan. After finding a few, he downloads exploit code from ExploitDB to gain access to the cameras and record videos from other people's homes.
-Jonne tries a list of known breached usernames and passwords to gain access to the web application in the cloud.
+Script Kiddie "Jonne" | Jonne searches for vulnerable IoT cameras in Shodan. After finding a few, he downloads exploit code from ExploitDB to gain access to the cameras and record videos from other people's homes. Jonne tries a list of known breached usernames and passwords to gain access to the web application in the cloud.
 Petty Thief "Kyle" | While no one is watching, Kyle snatches a couple of laptops and IoT cameras off the wall in a co-working office. If the price is right, somebody will buy this stuff second hand, no questions asked.
 Opportunistic Passer-by "Kevin" | A local coffee shop has bought a web camera from Acme.io. Unfortunately, the camera was mounted within reach, so while the barista was busy steaming up lattes and cappuccinos, Kevin plugged in his laptop to the unused Ethernet port and found out that no one has changed the default credentials of the user interface. How annoying! Kevin decided to mess up with the configuration to teach a lesson.
 Cloud Admin "Charlotte" | Charlotte watches the video recordings from various customers when she has some idle time. If somebody passes by and asks, she claims to "debug the video quality because of complaints." Charlotte shows the funniest videos to others in her team.
