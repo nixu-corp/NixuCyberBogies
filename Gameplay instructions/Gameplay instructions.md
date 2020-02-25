@@ -10,7 +10,7 @@ Preparations
 
 * Shuffle the deck of Cyber Bogie cards
 * Give a Cyber Bogie and Threat Discovery Template card and a pen to everybody
-  * nixu-cyber-bogies-scoring-template.pdf
+  * [nixu-cyber-bogies-scoring-template.pdf](https://github.com/nixu-corp/NixuCyberBogies/blob/master/Gameplay%20instructions/nixu-cyber-bogies-scoring-template.pdf)
 * Introduce the system to be threat modeled to everybody
   * Explain the purpose of the system
   * Explain what kind of data is handled in the system
