@@ -5,9 +5,7 @@ Imaginary online shopping platform 'EasyShoppe'
 
 EasyShoppe is a startup building an online shopping platform for sellers and buyers. In this concept, everybody can be a seller.
 
-System description:
-
-EasyShoppe-threat-modeling-example.pdf
+System description: [EasyShoppe-threat-modeling-example.pdf](https://github.com/nixu-corp/NixuCyberBogies/blob/master/Examples/EasyShoppe-threat-modeling-example.pdf)
 
 Cyber Bogie | Potential attack or misuse case
 ----------- | -------------------------------
@@ -29,7 +27,7 @@ Imaginary surveillance camera system for home and small office use
 
 With Acme.io's web camera, you can monitor your home or office even when you are away. The videos are stored in a cloud service and thus always available.
 
-System description: IoTCameraSystem-threat-modeling-example.pdf
+System description: [IoTCameraSystem-threat-modeling-example.pdf](https://github.com/nixu-corp/NixuCyberBogies/blob/master/Examples/IoTCameraSystem-threat-modeling-example.pdf)
 
 
 Cyber Bogie | Potential attack or misuse case
