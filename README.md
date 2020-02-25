@@ -17,10 +17,10 @@ You can use Cyber Bogies in threat workshops for brainstorming.
 
 For example, everyone can pick a Cyber Bogie card randomly. Then take turns:
 
-    Read the Cyber Bogie description briefly to others.
-    Explain how this Cyber Bogie would attack the system or why it's not relevant.
-    Everybody else can comment.
-    Write down the threats you found.
+    1. Read the Cyber Bogie description briefly to others.
+    2. Explain how this Cyber Bogie would attack the system or why it's not relevant.
+    3. Everybody else can comment.
+    4. Write down the threats you found.
 
 After you have listed possible threats, start checking what kind of mitigations you have already in place, or you could implement.
 
@@ -31,9 +31,9 @@ Software development teams
 
 Pick the most relevant Cyber Bogie characters threatening the security of the system you are developing. Pin the characters on your office wall and rename them if you like to make talking about them easier. When you are planning new features or changes, think what harm the Cyber Bogies could cause:
 
-    "Is there something new Charlie Cheater could do if we add this feature?" 
-    "Script Kiddie Jonne should not be able to make a denial of service attack that would put the website down."
-    "Competitor Engineer Alex should not be able to dig out important algorithms by reverse-engineering our firmware."
+    * "Is there something new Charlie Cheater could do if we add this feature?" 
+    * "Script Kiddie Jonne should not be able to make a denial of service attack that would put the website down."
+    * "Competitor Engineer Alex should not be able to dig out important algorithms by reverse-engineering our firmware."
 
 You can use the characters and threat scenarios also for test planning.
 
