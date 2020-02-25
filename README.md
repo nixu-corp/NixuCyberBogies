@@ -40,4 +40,4 @@ You can use the characters and threat scenarios also for test planning.
 
 Copyright notice:
 
-Cyber Bogies is © 2019 Nixu Corporation.  This work is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International license (https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Cyber Bogies is © 2020 Nixu Corporation.  This work is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International license (https://creativecommons.org/licenses/by-nc-nd/4.0/).
