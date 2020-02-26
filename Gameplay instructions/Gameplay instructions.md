@@ -1,4 +1,4 @@
-Gameplay instructions
+## Gameplay instructions
 
 Nothing motivates like a winning a game, right? If you want to compete against your workmates in finding threats actors and attack vectors, you can use the following instructions to play a time-boxed game and score your findings.
 Amount of players
@@ -6,7 +6,7 @@ Amount of players
 * minimum 2
 * maximum: 12
 
-Preparations
+### Preparations
 
 * Shuffle the deck of Cyber Bogie cards
 * Give a Cyber Bogie and Threat Discovery Template card and a pen to everybody
@@ -19,7 +19,7 @@ Preparations
   * This part is important. Otherwise, it is difficult to find threats
 * Ideally: Everybody takes some time to familiarize themselves with the Cyber Bogie cards, so using them is faster.
 
-Gameplay
+### Gameplay
 
 1. Select the first player (throw dice or whatever suits you)
 2. The first player (Player in Turn) takes a Cyber Bogie card
@@ -27,22 +27,22 @@ Gameplay
 
   * If you can, show the Cyber Bogie card with a projector to everybody
 
-1. In silence, everybody writes down the threats they come up with
+4. In silence, everybody writes down the threats they come up with
 
   * 3 minutes max or until everybody is ready
 
-1. The Player in Turn explains all threats (attacks + motivation) they came up with
-2. Other players can comment if they know existing mitigations or that the threat is irrelevant
-3. Players mark their points so far
-4. Other player take turns, starting from the left of Player in Turn, explain additional threats they found
-5. Other players can comment if they know existing mitigations or that the threat is irrelevant
-6. Players mark their points so far
-7. The second player (to the left) picks a Cyber Bogie card
-8. Go to step 3
+5. The Player in Turn explains all threats (attacks + motivation) they came up with
+6. Other players can comment if they know existing mitigations or that the threat is irrelevant
+7. Players mark their points so far
+8. Other player take turns, starting from the left of Player in Turn, explain additional threats they found
+9. Other players can comment if they know existing mitigations or that the threat is irrelevant
+10. Players mark their points so far
+11. The second player (to the left) picks a Cyber Bogie card
+12. Go to step 3
 
-Scoring
+### Scoring
 
-Scoring for Player in Turn
+##### Scoring for Player in Turn
 
 The Player in Turn is the one who picked the Cyber Bogie card and first listed the threats they discovered.
 
@@ -50,7 +50,7 @@ The Player in Turn is the one who picked the Cyber Bogie card and first listed t
   * 1 point for each motivation
   * -1 point if another player finds a mitigation for your threats
 
-Scoring for other players
+##### Scoring for other players
 
 Other players have their opportunity, one per time, to list new threats that the Player in Turn did not mention
 
@@ -59,7 +59,7 @@ Other players have their opportunity, one per time, to list new threats that the
   * 1 point for each mitigation to someone else's threats
 
 
-After the game
+### After the game
 
 We really recommend you to also continue working with the threats you discovered. If you haven't created a threat model earlier, this is a good point to start!
 

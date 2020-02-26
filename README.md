@@ -1,6 +1,6 @@
 # NixuCyberBogies
 
-Who are Cyber Bogies?
+### Who are Cyber Bogies?
 
 "Think like a hacker" – easier said than done. Many of us will recognize script kiddies or black-hoodies nation-state hackers. But it can be difficult to understand what kind of security trouble these people would be able to do. In addition, the cybersecurity threats we face are different depending on if we are defending a power plant compared to designing a mobile application for making massage therapist appointments.
 
@@ -9,7 +9,7 @@ That's why we created Cyber Bogies. Cyber Bogies are our gallery of "usual suspe
 Cyber Bogies are a fine-tuned version of Persona non Grata. The characters are based on stereotypes and caricatures, which make them memorable and easier to understand. That's why Cyber Bogies include North Korean hackers, Eastern Asian espionage, state-sponsored Advanced Persistent Threat groups, Brasilian scammers, Eastern European cybercriminal groups, and teenager script kiddies. These are actual phenomena and a relevant cybersecurity threat for some. However, we do not want to offend or discriminate against any nationality or ethnicity in any way. For example, "Nigerian Letters" is a type of financial scam and named for its origin, but it does not mean that many Nigerians would be involved in scams. The idea is that you can pick the relevant threats and Cyber Bogies in your case from a bigger catalog.
 
 
-How to use Cyber Bogies?
+### How to use Cyber Bogies?
 
 Threat modeling workshops
 
@@ -27,7 +27,7 @@ After you have listed possible threats, start checking what kind of mitigations 
 Check the gameplay instructions for ideas on gamifying threat discovery!
 
 
-Software development teams
+##### Software development teams
 
 Pick the most relevant Cyber Bogie characters threatening the security of the system you are developing. Pin the characters on your office wall and rename them if you like to make talking about them easier. When you are planning new features or changes, think what harm the Cyber Bogies could cause:
 
