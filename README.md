@@ -27,7 +27,7 @@ After you have listed possible threats, start checking what kind of mitigations 
 Check the gameplay instructions for ideas on gamifying threat discovery!
 
 
-##### Software development teams
+#### Software development teams
 
 Pick the most relevant Cyber Bogie characters threatening the security of the system you are developing. Pin the characters on your office wall and rename them if you like to make talking about them easier. When you are planning new features or changes, think what harm the Cyber Bogies could cause:
 

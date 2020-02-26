@@ -42,7 +42,7 @@ Amount of players
 
 ### Scoring
 
-##### Scoring for Player in Turn
+#### Scoring for Player in Turn
 
 The Player in Turn is the one who picked the Cyber Bogie card and first listed the threats they discovered.
 
@@ -50,7 +50,7 @@ The Player in Turn is the one who picked the Cyber Bogie card and first listed t
   * 1 point for each motivation
   * -1 point if another player finds a mitigation for your threats
 
-##### Scoring for other players
+#### Scoring for other players
 
 Other players have their opportunity, one per time, to list new threats that the Player in Turn did not mention
 
