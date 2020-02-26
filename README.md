@@ -15,7 +15,7 @@ Threat modeling workshops
 
 You can use Cyber Bogies in threat workshops for brainstorming.
 
-For example, everyone can pick a Cyber Bogie card randomly. Then take turns:
+For example, everyone can pick a Cyber Bogie [card](https://github.com/nixu-corp/NixuCyberBogies/blob/master/Nixu-CyberBogies-2020.pdf) randomly. Then take turns:
 
     1. Read the Cyber Bogie description briefly to others.
     2. Explain how this Cyber Bogie would attack the system or why it's not relevant.
