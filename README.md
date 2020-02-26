@@ -8,10 +8,12 @@ That's why we created Cyber Bogies. Cyber Bogies are our gallery of "usual suspe
 
 Cyber Bogies are a fine-tuned version of Persona non Grata. The characters are based on stereotypes and caricatures, which make them memorable and easier to understand. That's why Cyber Bogies include North Korean hackers, Eastern Asian espionage, state-sponsored Advanced Persistent Threat groups, Brasilian scammers, Eastern European cybercriminal groups, and teenager script kiddies. These are actual phenomena and a relevant cybersecurity threat for some. However, we do not want to offend or discriminate against any nationality or ethnicity in any way. For example, "Nigerian Letters" is a type of financial scam and named for its origin, but it does not mean that many Nigerians would be involved in scams. The idea is that you can pick the relevant threats and Cyber Bogies in your case from a bigger catalog.
 
-
+<br />
+<br />
 
 ### How to use Cyber Bogies?
 
+<br />
 
 #### Threat modeling workshops
 
@@ -29,6 +31,8 @@ After you have listed possible threats, start checking what kind of mitigations 
 Check the gameplay instructions for ideas on gamifying threat discovery!
 
 
+<br />
+<br />
 
 #### Software development teams
 
@@ -40,6 +44,7 @@ Pick the most relevant Cyber Bogie characters threatening the security of the sy
 
 You can use the characters and threat scenarios also for test planning.
 
+<br />
 
 Copyright notice:
 
