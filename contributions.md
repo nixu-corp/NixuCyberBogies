@@ -1,4 +1,4 @@
-##Contributors:
+## Contributors:
 * Tero Vänskä
 * Ari Kesäniemi
 * Anne Oikarinen
