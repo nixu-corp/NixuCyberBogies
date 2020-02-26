@@ -49,7 +49,7 @@ Amount of players
 
 ### Scoring
 
-#### Scoring for Player in Turn
+#### Scoring for the Player in Turn
 
 The Player in Turn is the one who picked the Cyber Bogie card and first listed the threats they discovered.
 
