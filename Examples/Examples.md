@@ -24,6 +24,9 @@ State-sponsored Agent "Magic Hound" | Magic Hound has found out that some govern
 There are probably many other threat actors, as well! Who else you do you think could harm EasyShoppe's security on purpose or by accident?
 
 
+
+
+
 ### Imaginary surveillance camera system for home and small office use
 
 With Acme.io's web camera, you can monitor your home or office even when you are away. The videos are stored in a cloud service and thus always available.
