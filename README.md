@@ -13,8 +13,6 @@ Cyber Bogies are a fine-tuned version of Persona non Grata. The characters are b
 
 ### How to use Cyber Bogies?
 
-<br />
-
 #### Threat modeling workshops
 
 You can use Cyber Bogies in threat workshops for brainstorming.

@@ -6,6 +6,7 @@ Amount of players
 * minimum 2
 * maximum: 12
 
+<br />
 
 ### Preparations
 
@@ -20,6 +21,7 @@ Amount of players
   * This part is important. Otherwise, it is difficult to find threats
 * Ideally: Everybody takes some time to familiarize themselves with the Cyber Bogie cards, so using them is faster.
 
+<br />
 
 ### Gameplay
 
@@ -43,6 +45,7 @@ Amount of players
 12. Go to step 3
 
 
+<br />
 
 ### Scoring
 
@@ -54,6 +57,8 @@ The Player in Turn is the one who picked the Cyber Bogie card and first listed t
   * 1 point for each motivation
   * -1 point if another player finds a mitigation for your threats
 
+<br />
+
 #### Scoring for other players
 
 Other players have their opportunity, one per time, to list new threats that the Player in Turn did not mention
@@ -62,7 +67,7 @@ Other players have their opportunity, one per time, to list new threats that the
   * 1 point for each new motivation
   * 1 point for each mitigation to someone else's threats
 
-
+<br />
 
 ### After the game
 

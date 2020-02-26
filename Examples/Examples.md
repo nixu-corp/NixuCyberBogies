@@ -2,6 +2,8 @@
 
 We have included two example systems that you can use for practicing threat modeling and playing games with the Cyber Bogie cards. Our examples also include, which Cyber Bogies could attack the system and how.
 
+<br />
+
 ### Imaginary online shopping platform 'EasyShoppe'
 
 EasyShoppe is a startup building an online shopping platform for sellers and buyers. In this concept, everybody can be a seller.
@@ -23,9 +25,8 @@ State-sponsored Agent "Magic Hound" | Magic Hound has found out that some govern
 
 There are probably many other threat actors, as well! Who else you do you think could harm EasyShoppe's security on purpose or by accident?
 
-
-
-
+<br />
+<br />
 
 ### Imaginary surveillance camera system for home and small office use
 
@@ -50,7 +51,5 @@ Profits First Marketeer “Mo” | Mo collects all metadata available and has pe
 Stubborn Stalker “Sasha” | Sasha has installed Acme.io's security camera to his home. Sasha uses the camera to check up on what the kids and his wife are doing while he's away. "Why is that neighbor invited over coffee again!?" Sasha is not pleased.
 Thoughtless Project Manager “Aisha" | Aisha is the project manager for next-generation camera products. New features are being developed based on Mo's analysis, and the aim is to reach totally new user groups. The team is already falling behind the schedules a bit, so Aisha pushes for working overtime and minimizing time spent on quality assurance. Ashley has also decided that security testing will not be needed this time "because there were no critical findings in the previous audit." Aisha also feels that privacy specialists are disrupting their feature development, so they are not invited, either.
 Competitor R&D Engineer “Jin” | Jin is working for a competing IoT product company. Jin reverse engineers the camera firmware and finds out interesting things to copy, such as a neat way of compressing videos ("much more efficient than ours," Jin exclaims).
-
-
 
 
