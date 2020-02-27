@@ -38,7 +38,7 @@ Amount of players
 5. The Player in Turn explains all threats (attacks + motivation) they came up with
 6. Other players can comment if they know existing mitigations or that the threat is irrelevant
 7. Players mark their points so far
-8. Other player take turns, starting from the left of Player in Turn, explain additional threats they found
+8. Other players take turns, starting from the left of Player in Turn, and explain the additional threats they found
 9. Other players can comment if they know existing mitigations or that the threat is irrelevant
 10. Players mark their points so far
 11. The second player (to the left) picks a Cyber Bogie card
@@ -61,7 +61,7 @@ The Player in Turn is the one who picked the Cyber Bogie card and first listed t
 
 #### Scoring for other players
 
-Other players have their opportunity, one per time, to list new threats that the Player in Turn did not mention
+Other players have their opportunity, one at a time, to list new threats that the Player in Turn did not mention
 
   * 2 points for each new attack vector
   * 1 point for each new motivation
