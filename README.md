@@ -2,7 +2,7 @@
 
 ### Who are Cyber Bogies?
 
-"Think like a hacker" – easier said than done. Many of us w, b recognize script kiddies or black-hoodied nation-state hackers, but it can be difficult to understand what kind of security trouble these people would be able to do. In addition, the cybersecurity threats we face are different when we are defending a power plant compared to designing a mobile application for making massage therapist appointments.
+"Think like a hacker" – easier said than done. Many of us would recognize script kiddies or black-hoodied nation-state hackers, but it can be difficult to understand what kind of security trouble these people would be able to do. In addition, the cybersecurity threats we face are different when we are defending a power plant compared to designing a mobile application for making massage therapist appointments.
 
 That's why we created Cyber Bogies. Cyber Bogies are our gallery of "usual suspects" - malicious and otherwise troublesome people that may form some kind of threat to IT systems or processes. The list includes crackers, opportunistic abusers, common criminals, incompetent users, insiders, and other kinds of miscreants. Our intention was to create memorable personalities that tickle your imagination and help with putting theoretic threats into context.
 
